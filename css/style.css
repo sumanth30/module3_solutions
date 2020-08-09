@@ -1,1 +1,57 @@
+body{
+	background-color:white;
+	font-size:16px;
+	color:#fff;
+	font-family: 'Titillium Web', sans-serif;
+	margin:0;
+}
+/**{
+	box-sizing: border-box;
+}*/
+.navbar{
+	border-bottom: 3px solid black;
+	border-top:3px solid black;
+	background-color:black;
+}
+.container{
+	margin-left:0px;
+	margin-right: 0px;
+}
+a:hover{
+	text-decoration: none;
+}
+.text-center{
+	font-size:30px;
+	text-align: center;
+	color:black;
+}
+.box{
+		width:100%;
+		border:3px black solid;
+		/*float:left;*/
+		/*margin:15px;*/
+		margin-bottom: 5px;
+		background-color:gray;
 
+}
+.c{
+	text-align: center;
+	font-size:26px;
+}
+.navbar-nav{
+	text-align: center;
+}
+.nav-link{
+	border:1px solid black;
+	width:115%;
+	font-size: 20px;
+}
+button{
+	float:right;
+}
+.food {
+	margin-left: 0px;
+}
+.color{
+	color: red;
+}
